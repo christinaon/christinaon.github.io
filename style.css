@@ -12,7 +12,10 @@ h2{
   
 }
 
-img {
+#firstImage {
   width: 400px;
+}
+#secondImage {
+  width: 1000px;
 }
 
